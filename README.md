@@ -1,5 +1,4 @@
 **PUT THE ZIP FILE (AFTER UNCOMPRESSING) DIRECTLY INSIDE OF YOUR /DOCUMENTS/PROCESSING FOLDER. DO NOT PUT IT INSIDE OF YOUR CURRENT SNEK FOLDER PROJECT.**
 
-```*On Windows: C:\This PC\Documents\Processing\*
-
-*On Mac: /Users/<username>/Documents/Processing*```
+On Windows: C:\This PC\Documents\Processing\\n
+On Mac: /Users/<username>/Documents/Processing/
